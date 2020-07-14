@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1bd4c09ef1d222f4f3fe73cbad6b17f6.js"
+  "precache-manifest.26b23eced7d2f9cb895bbcc5369b20c8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "qinghepj"});
